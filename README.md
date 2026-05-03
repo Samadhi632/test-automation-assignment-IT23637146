@@ -12,21 +12,17 @@ This project is about automating tests for a system that translates Singlish to 
 
 ## Steps to Get Started
 
-1. First you need to get a copy of the project files. You can do this by running the following command:
-
-git clone https://github.com/your-username/test-automation-assignment.git
-
-2. Then you need to go to the project folder:
+1. Then you need to go to the project folder:
 
 cd test-automation-assignment
 
-3. Next you need to install some packages that the project needs:
+2. Next you need to install some packages that the project needs:
 
 pip install -U pip
 
 pip install playwright openpyxl
 
-4. After that you need to install the browsers that Playwright needs:
+3. After that you need to install the browsers that Playwright needs:
 
 playwright install
 
